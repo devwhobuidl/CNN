@@ -43,4 +43,4 @@ A premium, AI-driven crypto news broadcast platform.
 4. Open `http://localhost:3000` to launch the live broadcast.
 
 ---
-*Created by [allmightykityy](https://github.com/allmightykityy).*
+*Created by [devwhobuidl](https://github.com/devwhobuidl).*
